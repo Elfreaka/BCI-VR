@@ -1,0 +1,18 @@
+# can be Forest or Beach
+Environment = Forest
+
+# growth rate from 0.0 - no growth to 1.0
+PlantGrowthRate = 0.65
+
+# 0 for off 1 for on
+Music = 1
+
+# breathing pattern for the meditation can be the first number is time to breathe in
+# second number is time to hold breath, third number is time to breathe out
+# 4-2-4 for 424 breathing
+# 4-4-4 for box breathing
+# 4-7-8 for 478 breathing
+
+BreathingPattern = 4-2-4
+
+

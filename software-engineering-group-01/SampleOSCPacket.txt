@@ -1,0 +1,1 @@
+#bundle, 01-01-1900 00:00:00.0000Z, { /met/att, 0.699999f }, { /met/eng, 0.5f }, { /met/exc, 0.25f }, { /met/int, 0.75f }, { /met/rel, 0.3725f }, { /met/str, 0.65f }
